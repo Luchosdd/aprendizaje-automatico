@@ -1,0 +1,6 @@
+id_venta,id_cliente,producto,cantidad,precio_unitario
+1,1,Notebook,2,1200000.0
+2,2,Mouse,10,25000.0
+3,1,Teclado,5,45000.0
+4,3,Monitor,1,300000.0
+5,2,Impresora,6,150000.0
